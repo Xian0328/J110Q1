@@ -24,7 +24,7 @@ public class class02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		is_prime obj=new is_prime(20);
+		is_prime obj=new is_prime(20); //NO
 		obj.show();
 	}
 
